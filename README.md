@@ -1,9 +1,11 @@
-<<<<<<< HEAD
+
 Simple Neural Network Project
+
 Project Overview
-This project implements a simple feed-forward neural network to classify data from a [dataset source, e.g., Kaggle or Hugging Face]. The goal is to familiarize with GitHub workflows, neural network implementation, and training a model on a supervised learning dataset.
+This project implements a simple feed-forward neural network to classify data from a Kaggle. The goal is to familiarize with GitHub workflows, neural network implementation, and training a model on a supervised learning dataset.
 
 Dataset
+
 Dataset Name: Breast Cancer Dataset
 Source: https://www.kaggle.com/datasets/faysalmiah1721758/breast-cancer-data
 Description: This dataset contains patient data such as age, tumor size, node involvement, and other characteristics that could influence the recurrence of breast cancer. The target variable (class) indicates whether each case was followed by a recurrence or not.
@@ -60,8 +62,4 @@ Possible areas for improvement include:
 Tuning hyperparameters and model architecture for better performance.
 Adding advanced regularization techniques or batch normalization.
 Exploring alternative datasets or more complex neural network architectures.
-=======
 
-# Neural-Network
-
-> > > > > > > aa1843e7dda258b58088b14f083bc47050174f3b
