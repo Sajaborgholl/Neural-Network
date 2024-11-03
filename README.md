@@ -40,22 +40,25 @@ Install the dependencies:
 pip install -r requirements.txt
 
 Running the Code
+
 Data Loading and Preprocessing:
 
 The dataset can be loaded and preprocessed using the data_loader.py script in the src directory.
+
 Training the Model:
 
 Run train.py to train and validate the model. You can adjust hyperparameters in the script to experiment with different configurations.
 Notebook:
-
 Open notebook.ipynb to view a complete walkthrough of the process, including loading data, training, and evaluating the model.
+
 File Structure
 src/
-data_loader.py: Handles data loading and preprocessing.
-NeuralNetwork.py: Defines the feed-forward neural network model.
-train.py: Script for training the model and evaluating performance.
-notebook.ipynb: Jupyter notebook for showcasing the entire workflow.
-requirements.txt: Lists dependencies needed to run the project.
+├── data_loader.py       # Handles data loading and preprocessing.
+├── NeuralNetwork.py     # Defines the feed-forward neural network model.
+├── train.py             # Script for training the model and evaluating performance.
+notebook.ipynb           # Jupyter notebook demonstrating the workflow.
+requirements.txt         # Dependencies required to run the project.
+
 Future Improvements
 Possible areas for improvement include:
 
